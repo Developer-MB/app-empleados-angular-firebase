@@ -1,0 +1,15 @@
+.float-right{
+  float: right;
+}
+
+.mt{
+  margin-top: 30px;
+}
+
+.mr{
+  margin-right: 10px;
+}
+
+i{
+  cursor: pointer;
+}
